@@ -1,0 +1,12 @@
+.App {background-color: rgb(31, 31, 93);
+  text-align: center;
+  margin:10 0 10 0;
+  border: 5px solid rgb(230, 229, 236);
+  border-style: double;
+  border-width: 20px;
+}
+
+img{border-radius: 8px;}
+h1{color:rgb(159, 183, 230);}
+h2{color:rgb(134, 155, 172);}
+h3{color:rgb(168, 159, 180);}
